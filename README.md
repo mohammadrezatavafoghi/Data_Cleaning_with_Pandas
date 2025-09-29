@@ -4,6 +4,15 @@
 This project demonstrates how to clean and prepare raw datasets for analysis using **Python** and the **Pandas** library.  
 The notebook focuses on transforming messy, inconsistent data into a structured format suitable for further analysis or visualization.
 
+## Sample Before and After
+
+**Before Cleaning**
+![Before](assets/before.png)
+
+**After Cleaning**
+![After](assets/after.png)
+
+
 ## Objectives
 - Handle missing values and duplicates.
 - Standardize column names and data types.
