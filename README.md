@@ -17,7 +17,7 @@ The notebook focuses on transforming messy, inconsistent data into a structured 
 
 ## Files
 - `Data Cleaning with Pandas.ipynb` → main notebook with code and explanations.
-- (Optional) `sample_data.csv` → example dataset used in the notebook.
+- `Customer Call List.xlsx` → example dataset used in the notebook.
 
 ## How to Run
 1. Clone or download this repository.  
